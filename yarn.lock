@@ -3413,13 +3413,14 @@
   dependencies:
     wonka "^4.0.14"
 
-"@wdlk/components@3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@wdlk/components/-/components-3.1.0.tgz#dd2948a83f9633a39d8aacba120e996a746a7f13"
-  integrity sha512-tn053+rCrx31ThwP2Zf0QO/j0OjdMX38XwnuI+Rd1Mwowp4pVvH23dmVh+NIAEbtlLbE1F15eUM0rlUPsBbXfQ==
+"@wdlk/components@3.4.2":
+  version "3.4.2"
+  resolved "https://registry.yarnpkg.com/@wdlk/components/-/components-3.4.2.tgz#cd75461b95a69fcb45857fb0b135f60e7d7cbddf"
+  integrity sha512-AXxx5LTt9Pg3XSl8kOY8VcsDX6GkKVYeiHvZjMD30mUW4AFmVbeoV8CwEx1fSeboRR7I83vXLWVbu/X4sLSe2g==
   dependencies:
     "@emotion/core" "^10.0.22"
     "@emotion/styled" "^10.0.27"
+    emotion-theming "^10.0.27"
     prismjs "^1.19.0"
     react "^16.12.0"
     react-dom "^16.12.0"

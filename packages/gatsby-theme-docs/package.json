@@ -24,7 +24,7 @@
     "@theme-ui/components": "^0.3.1",
     "@theme-ui/presets": "^0.3.0",
     "@types/theme-ui": "^0.3.2",
-    "@wdlk/components": "3.1.0",
+    "@wdlk/components": "3.4.2",
     "@wdlk/hooks": "^1.0.0",
     "emotion-theming": "^10.0.27",
     "gatsby-plugin-mdx": "^1.2.6",
