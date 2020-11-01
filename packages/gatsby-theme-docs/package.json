@@ -48,7 +48,7 @@
     "@types/uuid": "8.3.0",
     "babel-jest": "26.3.0",
     "babel-plugin-pluck-imports": "0.0.1",
-    "babel-plugin-remove-export-keywords": "1.6.18",
+    "babel-plugin-remove-export-keywords": "1.6.19",
     "babel-preset-gatsby": "0.5.10",
     "eslint-plugin-mdx": "1.8.2",
     "gatsby": "2.24.63",
